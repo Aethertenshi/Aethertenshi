@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ What I'm Working On
-* 🎨 **[ArtFrame](https://github.com/Aethertenshi/ArtFrame):** A free and open-source 2D game and interactive art framework built in C#, providing a declarative UI system, tween engine, MTSDF font rendering, and rhythm-aware audio — built on top of FNA.
+* 🎨 **[ArtFrameEXT](https://github.com/Aethertenshi/ArtFrameEXT):** A free and open-source 2D game and interactive art framework built in C#, providing a declarative UI system, tween engine, MTSDF font rendering, and rhythm-aware audio — built on top of FNA.
 * 🎮 **[ProjectReisan](https://github.com/Aethertenshi/ProjectReisan):** A free and open-source 2D game framework built in C# with uniformity in mind, acting as a wrapper for Raylib.
 * 📝 **[Monologue](https://github.com/Aethertenshi/Monologue):** A lightweight, self-hosted note-taking app built with JavaScript, designed like a messaging interface.
 * 🌐 **[Liatin](https://github.com/Aethertenshi/Liatin):** A self-hosted image showcase website built with Python, Flask, and SQLite.
