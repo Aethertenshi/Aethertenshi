@@ -10,7 +10,7 @@
 ## 🚀 Quick Stats & Info
 - 🌱 **Currently learning:** C#, JavaScript, Machine Learning, and Artificial Intelligence
 - 💬 **Ask me about:** Python, Lua(u), JavaScript, HTML, and Game Development
-- 👨‍💻 **Portfolio:** Check out my work at [portfolio.vectxyz.com](https://portfolio.aethertenshi.stream/)
+- 👨‍💻 **Portfolio:** Check out my work at [portfolio.aethertenshi.stream](https://portfolio.aethertenshi.stream/)
 - 📫 **Contact:** Reach out via **aethertenshi@yahoo.com** or connect with me here on GitHub!
 
 ---
